@@ -1,9 +1,13 @@
 body {
     margin: 0;
+    text-align: center;
+    font-family: 'Lora', serif;
 }
 
 .top-container {
-    background: #A2B29F;
+    background: #D1F5D3;
+    padding-top: 100px;
+    position: relative;
 }
 
 .middle-container {
@@ -20,5 +24,20 @@ body {
 
 
 h1 {
+    font-family: 'Caveat', serif;
     margin-top: 0;
+}
+
+.top-cloud {
+    max-width: 150px;
+    position: absolute;
+    right: 400px;
+    top: 20px;
+}
+
+.bottom-cloud {
+    max-width: 150px;
+    position: absolute;
+    left: 400px;
+    top: 100px;
 }
