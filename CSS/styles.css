@@ -23,22 +23,29 @@ h1 {
     font-family: 'Caveat', serif;
     margin: 50px auto 0 auto;
     font-size: 5rem;
+    color: #9DC6A7;
 }
 
 h2 {
     font-size: 2.5rem;
+    color: #9DC6A7;
+    font-weight: normal;
+}
+
+h3, a {
+    color: #478c59;
 }
 
 .top-cloud {
     max-width: 150px;
     position: absolute;
-    right: 400px;
+    right: 325px;
     top: 20px;
 }
 
 .bottom-cloud {
     max-width: 150px;
     position: absolute;
-    left: 400px;
-    bottom: 300px;
+    left: 325px;
+    top: 75px;
 }
