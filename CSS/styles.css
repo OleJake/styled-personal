@@ -49,3 +49,21 @@ h3, a {
     left: 325px;
     top: 75px;
 }
+
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.code-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.jake-avatar {
+    width: 20%;
+}
